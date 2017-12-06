@@ -15,7 +15,7 @@ Midi mapping for the AKAI APC 40 MK1
 5. Select the device mode in /local/midi/userdevices/AKAI_APC_40_MK1/Setup
 
 The CHOP channels are named<br/>
-{type}{channel}_{index}_{name}
+{type}{channel}\_{index}\_{name}
 
 Example :<br/>
 **Button**         : b2_61_device_control_prev<br/>
