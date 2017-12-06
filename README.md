@@ -11,7 +11,7 @@ Midi mapping for the AKAI APC 40 MK1
 1. Import the .tox into : /local/midi/userdevices
 2. Open the MIDI Device Mapper
 3. Create a new mapping
-4. In the MIDI Map dropdown, select AKAI APC 40
+4. In the MIDI Map dropdown, select AKAI APC 40 MK1
 5. Select the device mode in /local/midi/userdevices/AKAI_APC_40_MK1/Setup
 
 ## To do
